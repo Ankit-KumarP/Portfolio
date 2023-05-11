@@ -1,0 +1,51 @@
+.form {
+  margin: 2rem 0px;
+  width: 100%;
+}
+.form form {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 1rem;
+  width: 60%;
+  margin: auto;
+}
+.form form label {
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+.form form input {
+  color: white;
+  margin-bottom: 1rem;
+  padding: 10px 10px;
+  font-size: 12px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.form form textarea {
+  color: #fff;
+  margin-bottom: 1rem;
+  padding: 10px 10px;
+  font-size: 1rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.form form button {
+}
+.form .btn {
+}
+#name {
+}
+#email {
+}
+#subject {
+}
+#message {
+}
+
+/* Responsiveness */
+@media screen and (max-width: 750px) {
+  .form form {
+    /* background-color: green; */
+    width: 90%;
+  }
+}

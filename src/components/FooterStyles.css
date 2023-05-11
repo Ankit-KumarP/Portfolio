@@ -1,0 +1,49 @@
+.footer {
+  width: 100%;
+  padding: 3rem 0px;
+  background-color: rgba(19, 19, 19, 0.8);
+}
+.footer .footer-container {
+  margin: auto;
+  max-width: 60%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 50px;
+}
+.footer-container .left {
+  height: 100%;
+  max-width: 100%;
+}
+.left .location {
+  display: flex;
+}
+.location div {
+}
+.location p {
+}
+.left .phone {
+}
+.phone h4 {
+}
+.left .email {
+}
+.email h4 {
+}
+.footer-container .right {
+  height: 100%;
+  max-width: 100%;
+}
+
+.right .social {
+  margin-top: 1rem;
+}
+.social a {
+}
+
+/* Responsiveness */
+@media screen and (max-width: 660px) {
+  .footer .footer-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
