@@ -1,4 +1,4 @@
-.pricing {
+/* .pricing {
   width: 100%;
   padding: 2.5rem 1rem;
   background-color: #000;
@@ -44,9 +44,9 @@
 }
 
 /* Responsiveness */
-@media screen and (max-width: 740px) {
+/* @media screen and (max-width: 740px) {
   .pricing .card-container {
     max-width: 90%;
     grid-template-columns: 1fr;
-  }
-}
+  } */
+/* }  */

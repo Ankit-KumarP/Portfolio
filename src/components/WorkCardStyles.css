@@ -26,9 +26,13 @@
   text-align: center;
   padding: 1rem 0;
 }
-.project-details p {
+.project-details{
+  align-items: center;
+}
+.project-details .text {
   padding-bottom: 1rem;
   font-size: 1.1rem;
+  margin: 0 0 1rem 0;
   text-align: center;
 }
 .project-btns {
@@ -36,8 +40,10 @@
   margin: auto;
 }
 .project-btns .btn {
+  display: block;
   text-align: center;
   padding: 0.5rem 1rem;
+  margin: 0.4rem 0rem;
 }
 
 /* Responsiveness */

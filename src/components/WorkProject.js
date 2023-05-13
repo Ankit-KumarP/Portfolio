@@ -2,7 +2,6 @@ import React from 'react'
 import './WorkCardStyles.css'
 import WorkCard from './WorkCard';
 import WorkCardDataProject from './WorkCardDataProject'
-import { NavLink } from 'react-router-dom'
 
 function Work(props) {
     return (
