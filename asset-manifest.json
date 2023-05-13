@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.a9997287.css",
+    "main.js": "/Resume/static/js/main.ffe30a59.js",
+    "static/js/787.7efd31bd.chunk.js": "/Resume/static/js/787.7efd31bd.chunk.js",
+    "static/media/DP.png": "/Resume/static/media/DP.10e7d6f43f85ad97612e.png",
+    "static/media/Imageeditor.png": "/Resume/static/media/Imageeditor.f3eb3fbd39103ec10110.png",
+    "static/media/heroBG.jpg": "/Resume/static/media/heroBG.bcc795e53e01edb9a8b5.jpg",
+    "static/media/TicTacToe.jpg": "/Resume/static/media/TicTacToe.5d4824df056d748aed67.jpg",
+    "static/media/YouTube.png": "/Resume/static/media/YouTube.a3d9d80543f7bf2905ca.png",
+    "static/media/laptopcode.jpg": "/Resume/static/media/laptopcode.bab8adb0a1a6c85a982a.jpg",
+    "static/media/100Ques.png": "/Resume/static/media/100Ques.67e7e15a96e6b3fbdf3d.png",
+    "static/media/GFG.jpg": "/Resume/static/media/GFG.c275bf8cf005f8f4b412.jpg",
+    "static/media/ReactJS.webp": "/Resume/static/media/ReactJS.3b663c217c5eacef7408.webp",
+    "static/media/SRPublic.png": "/Resume/static/media/SRPublic.7097988b41197d47f5b3.png",
+    "static/media/GS.png": "/Resume/static/media/GS.8a389ec57ca01c5768c8.png",
+    "static/media/codeclause.jpg": "/Resume/static/media/codeclause.6bfd7dd184b06163742d.jpg",
+    "static/media/Javascript.png": "/Resume/static/media/Javascript.321e001ee7985f0bdf48.png",
+    "static/media/SOA.jpg": "/Resume/static/media/SOA.b7886c5df80db884aa13.jpg",
+    "static/media/textEditor.png": "/Resume/static/media/textEditor.e022c553f599b3f6de48.png",
+    "static/media/JAVA.jpg": "/Resume/static/media/JAVA.4757c6d12d4f0245d07c.jpg",
+    "static/media/CSS.webp": "/Resume/static/media/CSS.e27fc8de656357a336ef.webp",
+    "static/media/TemperatureConverter.jpg": "/Resume/static/media/TemperatureConverter.056ee5997635bd2b4f28.jpg",
+    "static/media/NPS.png": "/Resume/static/media/NPS.3cada76cd08b46116eed.png",
+    "static/media/CloudComputing.webp": "/Resume/static/media/CloudComputing.6f24cb1571b64990b28d.webp",
+    "static/media/IBM.jpg": "/Resume/static/media/IBM.b700f9aef98d6a67d5ad.jpg",
+    "index.html": "/Resume/index.html",
+    "main.a9997287.css.map": "/Resume/static/css/main.a9997287.css.map",
+    "main.ffe30a59.js.map": "/Resume/static/js/main.ffe30a59.js.map",
+    "787.7efd31bd.chunk.js.map": "/Resume/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9997287.css",
+    "static/js/main.ffe30a59.js"
+  ]
+}
